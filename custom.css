@@ -1,0 +1,55 @@
+body {
+font-family: 'Playfair Display', serif;
+}
+.nav-text {
+    font-size: 25px;
+    background-color: #ABCC6E!important;
+    box-shadow: 2px 4px 4px 2px #ABCC6E;
+}
+.register-background {
+    background-color: #F5FCB5;
+    box-shadow: 2px 4px 4px 2px #ABCC6E;
+    width: 100%;
+    height: auto;
+    text-align: center!important;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.h3-block {
+    text-align: center;
+}
+.container1 {
+    display: inline!important;
+    padding-top: 10px;
+}
+input {
+  width: 30%!important;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  display: inline!important;
+}
+.container2 {
+   background-color: #FFDEAD;
+   color: #000;
+   padding: 15px;
+   margin-top: 10px;
+   box-shadow: 2px 4px 4px 2px #ABCC6E;
+   border-radius: 25px;
+   width: 100%;
+   font-family: 'Herr Von Muellerhoff', cursive;
+}
+.p-font {
+    font-size: 25px;
+}
+.grid-margin {
+    margin: 15px;
+    border-radius: 5px;
+    background-color: #ABCC6E;
+    box-shadow: 2px 4px 4px 2px #ABCC6E;
+}
+footer {
+    background-color: #ABCC6E;
+    border-radius: 5px;
+    padding-top: 10px;
+}
