@@ -1,6 +1,16 @@
 body {
 font-family: 'Playfair Display', serif;
 }
+input {
+  width: 30%!important;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  display: inline!important;
+}
+.logo {
+    width:50%;
+}
 .nav-text {
     font-size: 25px;
     background-color: #ABCC6E!important;
@@ -22,13 +32,7 @@ font-family: 'Playfair Display', serif;
     display: inline!important;
     padding-top: 10px;
 }
-input {
-  width: 30%!important;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  display: inline!important;
-}
+
 .container2 {
    background-color: #FFDEAD;
    color: #000;
