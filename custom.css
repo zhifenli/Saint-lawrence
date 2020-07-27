@@ -65,3 +65,8 @@ footer {
 .bg-text {
     z-index: 5;
 }
+.background-img1 {
+    background-image: url("image/mask1.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
