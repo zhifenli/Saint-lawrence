@@ -49,7 +49,6 @@ input {
 .grid-margin {
     margin: 15px;
     border-radius: 5px;
-    background-color: #ABCC6E;
     box-shadow: 2px 4px 4px 2px #ABCC6E;
 }
 footer {
@@ -69,4 +68,23 @@ footer {
     background-image: url("image/mask1.png");
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+.text-pad {
+padding: 15px;
+}
+.background-imgM {
+    background-image: url("image/M.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.background-img2 {
+    background-image: url("image/NutellaCream.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.img {
+position: relative;
+}
+.position {
+    position: relative;
 }
